@@ -1,0 +1,11 @@
+D:\файлы\6.3\6.3\bin\Debug\netcoreapp3.0\6.3.exe
+D:\файлы\6.3\6.3\bin\Debug\netcoreapp3.0\6.3.deps.json
+D:\файлы\6.3\6.3\bin\Debug\netcoreapp3.0\6.3.runtimeconfig.json
+D:\файлы\6.3\6.3\bin\Debug\netcoreapp3.0\6.3.runtimeconfig.dev.json
+D:\файлы\6.3\6.3\bin\Debug\netcoreapp3.0\6.3.dll
+D:\файлы\6.3\6.3\bin\Debug\netcoreapp3.0\6.3.pdb
+D:\файлы\6.3\6.3\obj\Debug\netcoreapp3.0\6.3.csprojAssemblyReference.cache
+D:\файлы\6.3\6.3\obj\Debug\netcoreapp3.0\6.3.AssemblyInfoInputs.cache
+D:\файлы\6.3\6.3\obj\Debug\netcoreapp3.0\6.3.AssemblyInfo.cs
+D:\файлы\6.3\6.3\obj\Debug\netcoreapp3.0\6.3.dll
+D:\файлы\6.3\6.3\obj\Debug\netcoreapp3.0\6.3.pdb
