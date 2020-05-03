@@ -1,1 +1,1 @@
-https://vk.com/doc-78641724_368829398?hash=49a37f567d4707cfe9&dl=f5caf9ca74dd6749abЛабораторная-работа-№6
+[url=https://vk.com/doc-78641724_368829398?hash=49a37f567d4707cfe9&dl=f5caf9ca74dd6749ab]LW[/url]
